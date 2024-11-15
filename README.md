@@ -2,7 +2,7 @@
 
 A modern, responsive task management application built with React, featuring a sleek dark mode UI with glass-morphism effects. The application provides a comprehensive solution for managing daily tasks with advanced sorting, filtering, and persistence capabilities.
 
-[Explore Task Manager](task-manager-puce-pi.vercel.app)
+[Explore Task Manager](https://task-manager-puce-pi.vercel.app)
 
 ![Task Manager](./src/assets/images/taskManagerScreenshot.png)
 
