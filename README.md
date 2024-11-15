@@ -13,4 +13,6 @@ npm install
 ## Uses NPM
 
 * react-router-dom
+* lucide-react
+* framer-motion
 
