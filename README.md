@@ -16,3 +16,4 @@ npm install
 * lucide-react
 * framer-motion
 
+![Task Manager](./src/assets/images/screenshot.png)
